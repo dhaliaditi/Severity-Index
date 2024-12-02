@@ -25,6 +25,8 @@ ii) It identifies the most effective AI model for predicting SI in Python based 
 - Using this excel we generated 2 graphs representing Categories of Technical Debts in our dataset and Low-High Category Distribution Across Severity Groups.
 
 ## RQ2:
+- Input: training.csv or testing.csv
+- Output: severity_range (severity ranges in different project based on low and high severity)
 
 ## RQ3:
   - Input: 2group_relation.xlsx (gained from RQ1 output)
