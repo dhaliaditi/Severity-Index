@@ -32,4 +32,4 @@ ii) It identifies the most effective AI model for predicting SI in Python based 
 
 ## RQ4:
 - Step 3 (previously mentioned) contains the script that will generate the result of RQ4.
-- Summary of the result is uploaded in this folder.
+- Summary of the result were mentioned in a table and analysed in the submitted paper.
