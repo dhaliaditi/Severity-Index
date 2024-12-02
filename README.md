@@ -29,3 +29,7 @@ ii) It identifies the most effective AI model for predicting SI in Python based 
 ## RQ3:
   - Input: 2group_relation.xlsx (gained from RQ1 output)
   - Output: 4 radar chart representing Comparison of metric influences in individual project, 1 bar chart Comparing Metrics for High and Low Severity (Anjani, ChuanhuGPT, Maltrail, Recommenders)
+
+## RQ4:
+- Step 3 (previously mentioned) contains the script that will generate the result of RQ4.
+- Summary of the result is uploaded in this folder.
