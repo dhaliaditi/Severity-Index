@@ -26,7 +26,7 @@ ii) It identifies the most effective AI model for predicting SI in Python based 
 
 ## Answering RQ2:
 - Input: training.csv or testing.csv
-- Output: severity_range (severity ranges in different project based on low and high severity)
+- Output: severity_range (severity ranges in different project based on low and high severity). This result is also described in submitted paper in a table.
 
 ## Answering RQ3:
   - Input: 2group_relation.xlsx (gained from RQ1 output)
