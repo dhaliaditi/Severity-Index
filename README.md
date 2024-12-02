@@ -19,6 +19,13 @@ ii) It identifies the most effective AI model for predicting SI in Python based 
 
 ## Answering Research Questions (RQs): It contains scripts and results
 ## RQ1: 
-- Input: 2group_relationFinding.csv, output: 2group_relation.xlsx. 
+- Input: 2group_relationFinding.csv
+- output: 2group_relation.xlsx. 
 - Input file was generated using the training and testing data, keeping only columns (symbol,category, complexity_score, comments, multi, blank, h1,h2,N1,N2,vocabulary, length, calculated length, volume, difficulty,effort, time, bugs, maintainability, version, Risk_Group) representing prominent features.
 - Using this excel we generated 2 graphs representing Categories of Technical Debts in our dataset and Low-High Category Distribution Across Severity Groups.
+
+  ## RQ2:
+
+  ## RQ3:
+  - Input: 2group_relation.xlsx (gained from RQ1 output)
+  - Output: 4 radar chart representing Comparison of metric influences in individual project, 1 bar chart Comparing Metrics for High and Low Severity (Anjani, ChuanhuGPT, Maltrail, Recommenders)
